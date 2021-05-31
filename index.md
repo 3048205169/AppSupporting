@@ -1,12 +1,13 @@
-## Welcome to Shijie own webpage
-
-My name is Shijie Sun. I am from China. I used to work in SYTY in China Shenzhen. I majored in computer science since I entered college. I have passion in programming. 
-
-
-### working experiences
-I used to work in SYTY in China Shenzhen and my job was personal programming developer which responsible for building a web system based on medical treatment. 
-
-### educational experiences
-I used to be one of the students in a no-name university in China because I had a very low score in Gaokao. But I was interested in programming since I was in high school and made a lot of small projects
-
+## 技术支持
+亲爱的用户
+如果您在使用我们的产品时遇到任何问题，请随时与我们联系，我们将全力全意为您解决！
+请发邮件与我们联系，我们将24小时为您服务！
+邮箱地址：jimmysip@163.com
+谢谢
+## technical support
+Dear user
+If you encounter any problems when using our products, please feel free to contact us, we will try our best to solve for you!
+Please email us, we will serve you 24 hours a day!
+Email address: jimmysip@163.com
+thank you
 
